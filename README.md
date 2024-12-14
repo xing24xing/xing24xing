@@ -22,11 +22,6 @@ Hi, I’m **@xing24xing** (Khushi Pandey) 👋
 - **Cross-platform mobile apps** with Flutter or React Native
 - **Cloud-based** solutions and **API Development**
 
-### 📫 How to reach me...
-- 📧 Email: [khushi.pandey@example.com](mailto:khushi.pandey@example.com)
-- 📱 LinkedIn: [Khushi Pandey](https://www.linkedin.com/in/khushi-pandey)
-- 💬 Twitter: [@xing24xing](https://twitter.com/xing24xing)
-
 ### 😄 Pronouns: He/They
 
 ### ⚡ Fun fact:
@@ -83,7 +78,7 @@ I have worked on a wide range of projects that showcase my skills and passion fo
 
 ## 📊 Stats
 
-![Khushi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khushi123&show_icons=true&hide_title=true&count_private=true&theme=tokyonight)
+![Khushi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xing24xing&show_icons=true&hide_title=true&count_private=true&theme=tokyonight)
 
 ---
 
@@ -111,23 +106,13 @@ I have worked on a wide range of projects that showcase my skills and passion fo
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=keras&logoColor=white)
 
----
-
-## 📝 Blog
-
-I regularly share tutorials and experiences related to coding, AI, and my project work. You can read my latest blog posts here:
-
-- [How to Build a Currency Converter API](https://medium.com/@khushi.pandey/currency-converter-api-tutorial-4b4f5e8ff25e)
-- [Creating an AI-Powered Camera App](https://medium.com/@khushi.pandey/ai-powered-camera-app-e7a9f3196f74)
-
----
 
 ## 📬 Contact Me
 
 Feel free to reach out for collaborations or inquiries:
 
-- 📧 Email: [khushi.pandey@example.com](mailto:khushi.pandey@example.com)
-- 📱 LinkedIn: [Khushi Pandey](https://www.linkedin.com/in/khushi-pandey)
+- 📧 Email: [khushi.pandey@example.com](mailto:xingxing8601@example.com)
+- 📱 LinkedIn: [Khushi Pandey](https://www.linkedin.com/in/khushi-pandey3/)
 
 ---
 
