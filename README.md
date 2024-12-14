@@ -22,7 +22,7 @@ Hi, I’m **@xing24xing** (Khushi Pandey) 👋
 - **Cross-platform mobile apps** with Flutter or React Native
 - **Cloud-based** solutions and **API Development**
 
-### 😄 Pronouns: He/They
+### 😄 Pronouns: She/Her
 
 ### ⚡ Fun fact:
 - I love solving puzzles like Sudoku and Rubik's Cube 🧩. 
