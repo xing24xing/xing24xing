@@ -30,10 +30,6 @@ Hi, I’m **@xing24xing** (Khushi Pandey) 👋
 
 ---
 
-Feel free to check out my projects and let's collaborate! 🚀
-
----
-
 ## 🛠️ Technologies & Tools
 
 Here are the technologies I work with regularly:
@@ -50,31 +46,13 @@ Here are the technologies I work with regularly:
 
 ---
 
-## 📂 My Projects
-
-I have worked on a wide range of projects that showcase my skills and passion for development:
-
-### 💻 [Currency Exchange API](https://github.com/khushi123/CurrencyRateAPI)
-- A full-fledged API built with Node.js and Express, offering real-time currency exchange rates.
-  
-### 🧑‍🍳 [Restaurant Management System](https://github.com/khushi123/RestaurantManagementSystem)
-- Java-based application that provides features like employee management, order processing, and customer interactions.
-
-### 🌦️ [Weather API](https://github.com/khushi123/WeatherAPI)
-- A Python API to fetch real-time weather data from multiple sources, integrated with a front-end web application.
-
-### 🤖 [AI Camera App](https://github.com/khushi123/AI-Camera-App)
-- An AI-based camera app built using TensorFlow for face detection and emotion recognition. This app is aimed at mobile platforms using **Flutter**.
-
----
-
 ## 📊 Stats
 
 ![Khushi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xing24xing&show_icons=true&hide_title=true&count_private=true&theme=tokyonight)
 
 ---
 
-## 🌍 Languages & Tools (with images)
+## 🌍 Languages & Tools 
 
 ### **Programming Languages**:
 
