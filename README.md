@@ -111,7 +111,7 @@ I have worked on a wide range of projects that showcase my skills and passion fo
 
 Feel free to reach out for collaborations or inquiries:
 
-- 📧 Email: [khushi.pandey@example.com](mailto:xingxing8601@example.com)
+- 📧 Email: [xingxing8601@example.com](mailto:xingxing8601@example.com)
 - 📱 LinkedIn: [Khushi Pandey](https://www.linkedin.com/in/khushi-pandey3/)
 
 ---
