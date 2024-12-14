@@ -50,14 +50,6 @@ Here are the technologies I work with regularly:
 
 ---
 
-## 🌱 Currently Learning
-- **AI & ML** using TensorFlow and Python
-- **Flutter** for cross-platform mobile app development
-- Advanced **React** and **Node.js** for full-stack applications
-- Cloud Deployment with **AWS** and **Azure**
-
----
-
 ## 📂 My Projects
 
 I have worked on a wide range of projects that showcase my skills and passion for development:
